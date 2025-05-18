@@ -1,1 +1,2 @@
 # kerneldao-stake
+# kerneldao.stake
